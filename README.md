@@ -89,3 +89,69 @@ Lesson2、レビューアプリにおいてのタイポの問題
   end
 ```
 
+### question2.rb
+
+#### 問題概要
+体験カリキュラム、代入の = が1本になってしまっている問題
+
+
+#### 使用方法
+1. ターミナルからquestion2.rbを実行
+2. 毎回「あいこ」になってしまい、勝ち、負けの判定ができない
+
+
+#### 解答
+
+
+#### 元コード
+
+```
+  puts "最初はグーじゃんけん..."
+  puts "[0]:グー\n[1]:チョキ\n[2]:パー"
+
+  player_hand = gets.to_i
+  cpu_hand = rand(3)
+
+  if player_hand = cpu_hand
+    puts "あいこです！"
+  elsif (player_hand == 0 && cpu_hand == 1) || 
+        (player_hand == 1 && cpu_hand == 2) || 
+        (player_hand == 2 && cpu_hand == 0)
+    puts "あなたの勝ちです！"
+  else
+    puts "あなたの負けです！"
+  end
+```
+
+## Lesson3
+
+### question1.html/question1.css
+
+#### 問題概要
+Lesson3、htmlに全角スペースが入っていることにより余計な空白ができてしまう問題
+
+
+#### 使用方法
+1. question1.htmlをブラウザにて開く
+
+
+#### 解答
+
+
+### question2.html/question2.css
+
+#### 問題概要
+HTML問題にて、clearfixについての質問
+
+####質問内容
+html/css問題2にて、模範解答どおりでなくclearfixを利用して解こうとしたがうまくいかなかった。
+なぜか？また、claerfixを利用して解くとしたら、どのように書けるか？
+
+
+#### 使用方法
+1. question2.htmlをブラウザにて開く
+
+
+#### 解答
+
+

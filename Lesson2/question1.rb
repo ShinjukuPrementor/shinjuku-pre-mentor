@@ -7,7 +7,7 @@
     puts "タイトルを入力してください："
     post[:title]  = gets.chomp
     puts "感想を入力してください："
-    post[:riview] = gets.chomp
+    post[:review] = gets.chomp
     line   = "---------------------------"
 
     # レビューの描画
