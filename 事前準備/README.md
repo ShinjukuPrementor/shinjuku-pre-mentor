@@ -11,5 +11,5 @@ https://www.dropbox.com/s/3msfadk6bnyj6tb/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%BC%E
 メンター試験合格後、自宅から渋谷までの交通費を経費精算できます。
 今後オフィスに来た日を以下のスプレッドシートに記入してください。
 以下のシートのタブをコピーし、自分の名前のシートを作成してください。
-交通費:
+### 交通費
 https://docs.google.com/spreadsheets/d/1genXEA7SJKu_yMLq6r04GsuyuRlyOC1flCrm8cxz8KE/edit#gid=0
