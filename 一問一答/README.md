@@ -1,6 +1,10 @@
 # 一問一答
-https://docs.google.com/spreadsheets/d/16jCbtwRZ5HKuOj0YNOnUCF4cNsFmrt3eDJNP06_IyJk/edit#gid=847829882
+下記スプレッドシートを活用する
+https://docs.google.com/spreadsheets/d/1y584r4QWVa8xtqEznL4IwtxunPpmYNjGThEBzTqtXkE/edit#gid=1122137782
 
+
+元のスプレッドシート(こちらは他教室のメンターが含まれるため使用しません。)
+https://docs.google.com/spreadsheets/d/16jCbtwRZ5HKuOj0YNOnUCF4cNsFmrt3eDJNP06_IyJk/edit#gid=847829882
 
 # やるべきこと
 ## ①一問一答の回答作成
