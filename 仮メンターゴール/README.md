@@ -4,7 +4,6 @@
 ### ゴール
 カリキュラムのRuby問題①/Ruby問題②のアルゴリズム問題を雛型なしでも解けるようになるまでやる。
 Ruby問題①: http://master.tech-camp.in/curriculums/22  (7/30 任意問題以外は解いた)
-
 Ruby問題②: http://master.tech-camp.in/curriculums/23 (7/30　問３ができなかった)
 
 ### やること
